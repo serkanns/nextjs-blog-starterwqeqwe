@@ -1,11 +1,13 @@
 ---
 ID: "e982bdf82222"
 createdAt: "2024-01-21T11:16:19.000Z"
-updatedAt: "2024-01-21T11:18:46.313Z"
+updatedAt: "2024-01-22T08:23:45.605Z"
 status: "publish"
 slug: "2eqw"
+serkan: "e982bdf82222"
 
 ---
+
 ---
 __Advertisement :)__
 
